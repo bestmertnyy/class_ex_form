@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ex_ex1form\ex_ex1form\bin\Debug\ex_ex1form.exe.config
+C:\Users\Admin\source\repos\ex_ex1form\ex_ex1form\bin\Debug\ex_ex1form.exe
+C:\Users\Admin\source\repos\ex_ex1form\ex_ex1form\bin\Debug\ex_ex1form.pdb
+C:\Users\Admin\source\repos\ex_ex1form\ex_ex1form\obj\Debug\ex_ex1form.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ex_ex1form\ex_ex1form\obj\Debug\ex_ex1form.Form1.resources
+C:\Users\Admin\source\repos\ex_ex1form\ex_ex1form\obj\Debug\ex_ex1form.Properties.Resources.resources
+C:\Users\Admin\source\repos\ex_ex1form\ex_ex1form\obj\Debug\ex_ex1form.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ex_ex1form\ex_ex1form\obj\Debug\ex_ex1form.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ex_ex1form\ex_ex1form\obj\Debug\ex_ex1form.exe
+C:\Users\Admin\source\repos\ex_ex1form\ex_ex1form\obj\Debug\ex_ex1form.pdb
